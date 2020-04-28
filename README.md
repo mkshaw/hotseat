@@ -12,3 +12,4 @@ Longer-term features:
 
 ### Current Learning Plan
 - As a start, I'll run through the 30-hour introductory JavaScript course from Codecademy, available <a href="https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro" target="_blank">here</a>. Goal: finish by next Friday, May 8th.
+- Next, game development course <a href="https://www.codecademy.com/learn/learn-phaser">here</a>.
