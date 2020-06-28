@@ -1,0 +1,27 @@
+{
+  "name": "hotseat",
+  "version": "0.0.1",
+  "description": "The board game with hot questions and even hotter wings.",
+  "main": "testing_ground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkshaw/hotseat.git"
+  },
+  "keywords": [
+    "board game",
+    "hot wings"
+  ],
+  "author": "Mairead Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkshaw/hotseat/issues"
+  },
+  "homepage": "https://github.com/mkshaw/hotseat#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
